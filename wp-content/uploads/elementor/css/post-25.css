@@ -1,0 +1,269 @@
+.elementor-25 .elementor-element.elementor-element-520f830.ob-is-breaking-bad>.elementor-container>.elementor-row,
+.elementor-25 .elementor-element.elementor-element-520f830.ob-is-breaking-bad>.elementor-container {
+    justify-content: flex-start !important;
+    flex-direction: row;
+}
+
+.elementor-25 .elementor-element.elementor-element-520f830.ob-is-breaking-bad.ob-bb-inner>.elementor-container>.elementor-row,
+.elementor-25 .elementor-element.elementor-element-520f830.ob-is-breaking-bad.ob-bb-inner>.elementor-container {
+    justify-content: flex-start !important;
+    flex-direction: row;
+}
+
+.elementor-25 .elementor-element.elementor-element-520f830.ob-is-breaking-bad.ob-is-glider>.elementor-container.swiper-container-vertical>.elementor-row,
+.elementor-25 .elementor-element.elementor-element-520f830.ob-is-breaking-bad.ob-is-glider>.elementor-container.swiper-container-vertical {
+    flex-direction: column;
+}
+
+.elementor-25 .elementor-element.elementor-element-520f830.ob-is-breaking-bad.ob-is-glider.ob-bb-inner>.elementor-container.swiper-container-vertical>.elementor-row,
+.elementor-25 .elementor-element.elementor-element-520f830.ob-is-breaking-bad.ob-is-glider.ob-bb-inner>.elementor-container.swiper-container-vertical {
+    flex-direction: column;
+}
+
+.elementor-25 .elementor-element.elementor-element-520f830.ob-is-breaking-bad.ob-bb-inner {
+    width: 100%;
+    flex: unset;
+    align-self: inherit;
+}
+
+.elementor-25 .elementor-element.elementor-element-520f830:not(.elementor-motion-effects-element-type-background),
+.elementor-25 .elementor-element.elementor-element-520f830>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #009FE3;
+}
+
+.elementor-25 .elementor-element.elementor-element-520f830 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 60px 0px 60px 0px;
+    z-index: 1;
+}
+
+.elementor-25 .elementor-element.elementor-element-520f830>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-25 .elementor-element.elementor-element-bed5390.elementor-column>.elementor-widget-wrap {
+    justify-content: space-between;
+}
+
+.elementor-25 .elementor-element.elementor-element-bed5390>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-25 .elementor-element.elementor-element-bed5390.elementor-column {
+    width: 100%;
+    align-self: inherit;
+    cursor: default;
+}
+
+.elementor-25 .elementor-element.elementor-element-bed5390>.elementor-element-populated {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-25 .elementor-element.elementor-element-a84f4c1 .elementor-nav-menu .elementor-item {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.elementor-25 .elementor-element.elementor-element-a84f4c1 .elementor-nav-menu--main .elementor-item {
+    color: #0B0B35;
+    fill: #0B0B35;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.elementor-25 .elementor-element.elementor-element-a84f4c1 .elementor-nav-menu--main .elementor-item:hover,
+.elementor-25 .elementor-element.elementor-element-a84f4c1 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-25 .elementor-element.elementor-element-a84f4c1 .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-25 .elementor-element.elementor-element-a84f4c1 .elementor-nav-menu--main .elementor-item:focus {
+    color: #FFFFFF;
+    fill: #FFFFFF;
+}
+
+.elementor-25 .elementor-element.elementor-element-a84f4c1 .elementor-nav-menu--main .elementor-item.elementor-item-active {
+    color: #FFFFFF;
+}
+
+.elementor-25 .elementor-element.elementor-element-a84f4c1 {
+    --e-nav-menu-horizontal-menu-item-margin: calc( 5px / 2);
+    width: auto;
+    max-width: auto;
+    align-self: center;
+}
+
+.elementor-25 .elementor-element.elementor-element-a84f4c1 .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu>li:not(:last-child) {
+    margin-bottom: 5px;
+}
+
+.elementor-25 .elementor-element.elementor-element-a90bbb1 {
+    text-align: right;
+    width: auto;
+    max-width: auto;
+    align-self: center;
+}
+
+.elementor-25 .elementor-element.elementor-element-a90bbb1 .elementor-heading-title {
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 13px;
+}
+
+.elementor-25 .elementor-element.elementor-element-a90bbb1.ob-harakiri {
+    writing-mode: inherit;
+}
+
+.elementor-25 .elementor-element.elementor-element-a90bbb1.ob-harakiri .elementor-heading-title {
+    writing-mode: inherit;
+    transform: rotate(0deg);
+}
+
+.elementor-25 .elementor-element.elementor-element-a90bbb1.ob-harakiri .elementor-widget-container>div {
+    writing-mode: inherit;
+    transform: rotate(0deg);
+}
+
+.elementor-25 .elementor-element.elementor-element-a90bbb1 .elementor-widget-container {
+    mix-blend-mode: inherit;
+}
+
+.elementor-25 .elementor-element.elementor-element-881bfa7.ob-is-breaking-bad>.elementor-container>.elementor-row,
+.elementor-25 .elementor-element.elementor-element-881bfa7.ob-is-breaking-bad>.elementor-container {
+    justify-content: flex-start !important;
+    flex-direction: row;
+}
+
+.elementor-25 .elementor-element.elementor-element-881bfa7.ob-is-breaking-bad.ob-bb-inner>.elementor-container>.elementor-row,
+.elementor-25 .elementor-element.elementor-element-881bfa7.ob-is-breaking-bad.ob-bb-inner>.elementor-container {
+    justify-content: flex-start !important;
+    flex-direction: row;
+}
+
+.elementor-25 .elementor-element.elementor-element-881bfa7.ob-is-breaking-bad.ob-is-glider>.elementor-container.swiper-container-vertical>.elementor-row,
+.elementor-25 .elementor-element.elementor-element-881bfa7.ob-is-breaking-bad.ob-is-glider>.elementor-container.swiper-container-vertical {
+    flex-direction: column;
+}
+
+.elementor-25 .elementor-element.elementor-element-881bfa7.ob-is-breaking-bad.ob-is-glider.ob-bb-inner>.elementor-container.swiper-container-vertical>.elementor-row,
+.elementor-25 .elementor-element.elementor-element-881bfa7.ob-is-breaking-bad.ob-is-glider.ob-bb-inner>.elementor-container.swiper-container-vertical {
+    flex-direction: column;
+}
+
+.elementor-25 .elementor-element.elementor-element-881bfa7.ob-is-breaking-bad.ob-bb-inner {
+    width: 100%;
+    flex: unset;
+    align-self: inherit;
+}
+
+.elementor-25 .elementor-element.elementor-element-881bfa7:not(.elementor-motion-effects-element-type-background),
+.elementor-25 .elementor-element.elementor-element-881bfa7>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #009FE3;
+}
+
+.elementor-25 .elementor-element.elementor-element-881bfa7 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-25 .elementor-element.elementor-element-881bfa7>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-25 .elementor-element.elementor-element-9c4a948.elementor-column {
+    align-self: inherit;
+    cursor: default;
+}
+
+.elementor-25 .elementor-element.elementor-element-9c4a948>.elementor-element-populated {
+    border-style: solid;
+    border-width: 1px 0px 0px 0px;
+    border-color: #72217B;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 50px 50px 50px 50px;
+}
+
+.elementor-25 .elementor-element.elementor-element-9c4a948>.elementor-element-populated,
+.elementor-25 .elementor-element.elementor-element-9c4a948>.elementor-element-populated>.elementor-background-overlay,
+.elementor-25 .elementor-element.elementor-element-9c4a948>.elementor-background-slideshow {
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-25 .elementor-element.elementor-element-9c4a948>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-25 .elementor-element.elementor-element-d536313 {
+    text-align: center;
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.elementor-25 .elementor-element.elementor-element-d536313.ob-harakiri {
+    writing-mode: inherit;
+}
+
+.elementor-25 .elementor-element.elementor-element-d536313.ob-harakiri .elementor-heading-title {
+    writing-mode: inherit;
+    transform: rotate(0deg);
+}
+
+.elementor-25 .elementor-element.elementor-element-d536313.ob-harakiri .elementor-widget-container>div {
+    writing-mode: inherit;
+    transform: rotate(0deg);
+}
+
+.elementor-25 .elementor-element.elementor-element-d536313 .elementor-widget-container {
+    mix-blend-mode: inherit;
+}
+
+@media(max-width:1024px) {
+    .elementor-25 .elementor-element.elementor-element-520f830 {
+        padding: 30px 20px 30px 20px;
+    }
+    .elementor-25 .elementor-element.elementor-element-881bfa7 {
+        padding: 0px 20px 0px 20px;
+    }
+    .elementor-25 .elementor-element.elementor-element-9c4a948>.elementor-element-populated {
+        padding: 30px 20px 30px 20px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-25 .elementor-element.elementor-element-520f830 {
+        padding: 30px 0px 30px 0px;
+    }
+    .elementor-25 .elementor-element.elementor-element-a84f4c1>.elementor-widget-container {
+        padding: 0px 0px 10px 0px;
+    }
+    .elementor-25 .elementor-element.elementor-element-a84f4c1 {
+        width: 100%;
+        max-width: 100%;
+    }
+    .elementor-25 .elementor-element.elementor-element-a90bbb1 {
+        text-align: center;
+        width: 100%;
+        max-width: 100%;
+    }
+    .elementor-25 .elementor-element.elementor-element-a90bbb1 .elementor-heading-title {
+        font-size: 10px;
+    }
+    .elementor-25 .elementor-element.elementor-element-881bfa7 {
+        padding: 0px 20px 0px 20px;
+    }
+    .elementor-25 .elementor-element.elementor-element-9c4a948>.elementor-element-populated {
+        padding: 38px 20px 30px 20px;
+    }
+}
+
+/* Start custom CSS for nav-menu, class: .elementor-element-a84f4c1 */
+
+.elementor-25 .elementor-element.elementor-element-a84f4c1 .menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-32 {
+    pointer-events: none;
+}
+
+/* End custom CSS */

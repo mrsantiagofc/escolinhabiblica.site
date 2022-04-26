@@ -1,0 +1,89 @@
+.elementor-kit-17 {
+    --e-global-color-primary: #6EC1E4;
+    --e-global-color-secondary: #54595F;
+    --e-global-color-text: #7A7A7A;
+    --e-global-color-accent: #61CE70;
+    --e-global-color-feb084e: #E63888;
+    --e-global-color-25d3bfd: #72217B;
+    --e-global-color-7bb40c8: #0B0B35;
+    --e-global-typography-primary-font-family: "Montserrat";
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-secondary-font-family: "Montserrat";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-family: "Montserrat";
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-accent-font-family: "Montserrat";
+    --e-global-typography-accent-font-weight: 500;
+    font-family: "Montserrat", Sans-serif;
+}
+
+.elementor-kit-17 a {
+    font-family: "Montserrat", Sans-serif;
+}
+
+.elementor-kit-17 h1 {
+    font-family: "Montserrat", Sans-serif;
+}
+
+.elementor-kit-17 h2 {
+    font-family: "Montserrat", Sans-serif;
+}
+
+.elementor-kit-17 h3 {
+    font-family: "Montserrat", Sans-serif;
+}
+
+.elementor-kit-17 h4 {
+    font-family: "Montserrat", Sans-serif;
+}
+
+.elementor-kit-17 h5 {
+    font-family: "Montserrat", Sans-serif;
+}
+
+.elementor-kit-17 h6 {
+    font-family: "Montserrat", Sans-serif;
+}
+
+.elementor-kit-17 button,
+.elementor-kit-17 input[type="button"],
+.elementor-kit-17 input[type="submit"],
+.elementor-kit-17 .elementor-button {
+    font-family: "Montserrat", Sans-serif;
+}
+
+.elementor-kit-17 label {
+    font-family: "Montserrat", Sans-serif;
+}
+
+.elementor-kit-17 input:not([type="button"]):not([type="submit"]),
+.elementor-kit-17 textarea,
+.elementor-kit-17 .elementor-field-textual {
+    font-family: "Montserrat", Sans-serif;
+}
+
+.elementor-section.elementor-section-boxed>.elementor-container {
+    max-width: 1140px;
+}
+
+.elementor-widget:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+{}
+
+h1.entry-title {
+    display: var(--page-title-display);
+}
+
+@media(max-width:1024px) {
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 1024px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 767px;
+    }
+}
